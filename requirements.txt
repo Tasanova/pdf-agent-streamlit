@@ -2,6 +2,6 @@ streamlit
 openai
 faiss-cpu
 PyPDF2
-langchain
+langchain==0.1.14
 tiktoken
 tenacity
